@@ -1,9 +1,7 @@
-
-"""Ask a question to the database."""
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores.faiss import FAISS
-from langchain import OpenAI, VectorDBQA
-from langchain.text_splitter import CharacterTextSplitter, RecursiveCharacterTextSplitter
+from langchain import OpenAI
+from langchain.text_splitter import CharacterTextSplitter
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
 from langchain.docstore.document import Document
