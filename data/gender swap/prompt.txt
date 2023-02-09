@@ -1,0 +1,1 @@
+Switch the gender of *all* the characters such that males become females and females become males (change their names, clothes, occupations and activities accordingly).

@@ -1,0 +1,3 @@
+Write in the style of H.P. Lovecraft.
+Replace all characters with corresponding Lovecraft's characters.
+Avoid repetitions in your descriptions.
