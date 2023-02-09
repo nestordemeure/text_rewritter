@@ -6,7 +6,7 @@ Using [LangChain](https://github.com/hwchase17/langchain) and GPT3 to rewrite a 
 
 The text is sliced into chunks which are processed in order with the following prompt (shortened for the first two calls):
 
-```json
+```
 You are rewriting a novel, rewrite the full extract according to the instructions:
 
 INSTRUCTIONS:
